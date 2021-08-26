@@ -1,0 +1,23 @@
+   {
+    "name": "Siyalive CSC Kunnamkulam",
+    "short_name": "Siyalive",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-RkPSx-jnPAU/YScYrM1QpaI/AAAAAAAABYk/rCyMSTLFFZ4PLcMjPG8spDc773J71DQ6ACLcBGAsYHQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-ywi-AJJQcr4/YScYmixTKZI/AAAAAAAABYc/zxLDsXsBOLIWxt7Y_MtDmQnJYeq1D6MBQCLcBGAsYHQ/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.csckunnamkulam.in"
+}
